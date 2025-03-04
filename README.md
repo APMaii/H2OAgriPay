@@ -7,7 +7,7 @@ AgriWaterControl is a **smart water management system** that enables city-based 
 
 
 <p align="center">
-  <img src="git_pictures/demoo.gif" alt="Demo Preview" width="300"/>
+  <img src="git_pictures/main_demo.gif" alt="Demo Preview" width="300"/>
 </p>
 
 ## ✨ Features  
