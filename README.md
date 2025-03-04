@@ -76,3 +76,36 @@ AgriWaterControl is a **smart water management system** that enables city-based 
 │── pubspec.yaml (Flutter Dependencies)
 │── requirements.txt (Backend Dependencies)
 ```
+
+
+## 🏁 Installation & Setup
+1️⃣ Clone the Repository
+```plaintext
+git clone [https://github.com/yourusername/AgriWaterControl.git](https://github.com/APMaii/H2OAgriPay)
+```
+2️⃣ Setup Flutter App
+```plaintext
+flutter pub get
+flutter run
+```
+3️⃣ Setup Backend
+
+
+
+## 📜 License 
+
+It is free to use only for educational purposes (not commercial)
+
+
+
+## 🤝 Contributing 
+Feel free to fork this repository, submit issues, and contribute to future improvements.
+
+
+
+## 📞 Contact & Support
+
+For inquiries and collaborations, reach out via:📧 Email: [alipilehvar1999@gmail.com]
+
+
+
