@@ -68,18 +68,23 @@ AgriWaterControl is a **smart water management system** that enables city-based 
 /agriwatercontrol
 │── /lib
 │   ├── main.dart (App Entry Point with Animations)
-│   ├── /screens
-│   │   ├── login.dart (User Authentication)
-│   │   ├── signup.dart (User Registration)
-│   │   ├── homepage.dart (Main Navigation)
-│   │   ├── transaction.dart (Payments & Banking)
-│   │   ├── settings.dart (User Settings)
+│   ├── login.dart (User Authentication)
+│   ├── signup.dart (User Registration)
+│   ├── homepage.dart (Main Navigation)
+│   ├── turnover_page.dart (For historical transaction (navigation of homepage))
+│   ├── payment_page.dart (for payment procedure (navigation of homepage) )
+│   ├── setting_page.dart (settings (navigation of homepage))
+│   ├── account_page.dart (account details (in setting page))
+│   ├── privacy_page.dart ((in setting page))
+│   ├──
+│   ├── 
 │── /backend
 │   ├── /django (Django API & Database)
 │   ├── /fastapi (FastAPI Microservices)
 │── README.md
 │── pubspec.yaml (Flutter Dependencies)
 │── requirements.txt (Backend Dependencies)
+
 ```
 
 
