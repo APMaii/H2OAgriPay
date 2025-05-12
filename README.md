@@ -2,6 +2,7 @@
 
 **A modern Flutter-based water usage monitoring and billing system for agricultural users, integrated with Django and FastAPI for backend services.**  
 
+
 ## 🚀 Overview  
 AgriWaterControl is a **smart water management system** that enables city-based agricultural users to track their **water consumption**, manage **monthly payments**, and monitor **transaction history** through an intuitive mobile application. The system integrates **Flutter (Dart)** for the frontend with **Django** and **FastAPI** for backend services, ensuring a seamless user experience with real-time updates, secure payments, and automated notifications.  
 
